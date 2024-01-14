@@ -1,0 +1,8 @@
+# Tracking the progress
+
+    1) Firstly, I created a folder called gin.
+    2) Then I created a go mod(modules) file called example/gin
+    3) Now I wrote basic fmt go code with gin to send the values on particular port endpoint
+    4) Here! I asked the chatgpt for help 
+    5) As per the chatgpt he told me to first make a connection pool between go and mysql
+
